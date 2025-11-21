@@ -157,7 +157,8 @@ This checklist helps ensure smooth transitions between roles and phases in the p
 If a handoff is blocked or incomplete:
 1. Flag the issue immediately in daily standup or weekly sync
 2. Project Manager facilitates resolution with relevant roles
-3. Escalate to Product Manager or Sponsor if unresolved within 48 hours
+3. For critical/production issues, escalate to Product Manager or Sponsor within 4 hours
+4. For non-critical issues, escalate if unresolved within 48 hours
 
 ---
 

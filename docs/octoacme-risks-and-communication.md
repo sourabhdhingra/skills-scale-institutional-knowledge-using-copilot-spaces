@@ -47,6 +47,6 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
-- For deployment issues, DevOps/Release Engineer escalates to Infrastructure Lead
-- For customer-impacting issues, Support Lead escalates through Support → Product → Executive chain
-- For design/UX conflicts, UX Designer and Product Manager collaborate; escalate to Design Lead if unresolved
+- For deployment issues, DevOps/Release Engineer escalates to PM -> Product Lead
+- For customer-impacting issues, Support Lead escalates through Support → Product Manager → Sponsor
+- For design/UX conflicts, UX Designer and Product Manager collaborate; escalate to Product Lead if unresolved

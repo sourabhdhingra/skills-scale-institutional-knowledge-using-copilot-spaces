@@ -81,6 +81,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 QA engineers validate that features meet acceptance criteria, quality standards, and user expectations. They design test strategies, execute test plans, and work closely with developers to ensure defects are identified and resolved before release.
 
 ### Responsibilities
+- Design and implement test automation strategies
 - Develop and execute test plans and test cases
 - Validate acceptance criteria for user stories and features
 - Perform manual exploratory testing when needed

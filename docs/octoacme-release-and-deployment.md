@@ -28,7 +28,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Support team briefed on changes and known issues — Support Lead confirms readiness
 - [ ] Monitoring and alerting verified — DevOps/Release Engineer confirms
 
-For detailed role responsibilities during deployment, see [Role Handoff Checklist](octoacme-role-handoff-checklist.md).
+For detailed role responsibilities during deployment, see [Role Handoff Checklist - QA to Release](octoacme-role-handoff-checklist.md#qa-to-release-handoff) and [Deployment to Support Handoff](octoacme-role-handoff-checklist.md#deployment-to-support-handoff).
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
