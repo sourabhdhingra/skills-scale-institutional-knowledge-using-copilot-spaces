@@ -15,6 +15,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Plan role handoffs and collaboration touchpoints (see [Role Handoff Checklist](octoacme-role-handoff-checklist.md))
+8. Coordinate design reviews with UX Designer if applicable
+9. Establish deployment strategy with DevOps/Release Engineer
+10. Define support readiness criteria with Support Lead
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +45,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Design handoffs scheduled (if UX Designer involved)
+- [ ] Deployment approach aligned with DevOps/Release Engineer
+- [ ] Support readiness plan created with Support Lead
+- [ ] Cross-role collaboration points identified using [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
