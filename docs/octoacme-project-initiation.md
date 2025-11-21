@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Role assignments for the project (see [Roles & Personas](octoacme-roles-and-personas.md) for complete role definitions)
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,17 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - UX Designer (if applicable):
+  - Business Analyst (if applicable):
+  - QA/Testing:
+  - DevOps/Release Engineer:
+  - Support Lead (for production systems):
+  - Other roles as needed:
+
+_See [Roles & Personas](octoacme-roles-and-personas.md) for detailed role definitions and [Role Handoff Checklist](octoacme-role-handoff-checklist.md) for cross-role collaboration guidance._
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
